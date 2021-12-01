@@ -5,8 +5,8 @@
 🔭 Computer science undergraduate
 
 🌱 Python, Kotlin & Java
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanula">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanula&hide=jupyter notebook">
 <!--
 **campanula/campanula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
