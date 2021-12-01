@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Julia 👋
+#### More about me:
 🔭 Computer science undergraduate
 
 🌱 Python, Kotlin & Java
