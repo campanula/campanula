@@ -6,9 +6,9 @@
 
 🌱 Python, Kotlin & Java
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanula&hide=jupyter notebook&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanula&hide=jupyter notebook&layout=compact">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=campanula&repo=AdventOfCode2021&theme=dark)](https://github.com/campanula/AdventOfCode2021)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=campanula&repo=AdventOfCode2021)](https://github.com/campanula/AdventOfCode2021)
 <!--
 **campanula/campanula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
