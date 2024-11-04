@@ -1,4 +1,4 @@
-### Hi there, I'm Julia 👋
+### Hi there, I'm Lia 👋
   
 #### More about me:
   
